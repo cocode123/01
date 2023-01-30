@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
     Widget w;
     w.show();
     Widget x;
-    // 
+    //¹¦ÄÜ1 
     // 
     //x.show();
     return a.exec();
